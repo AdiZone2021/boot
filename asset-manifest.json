@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AdiZone2021/boot.git/static/css/main.de145b29.css",
+    "main.js": "/AdiZone2021/boot.git/static/js/main.738fa354.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AdiZone2021/boot.git/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/AdiZone2021/boot.git/index.html",
+    "main.de145b29.css.map": "/AdiZone2021/boot.git/static/css/main.de145b29.css.map",
+    "main.738fa354.js.map": "/AdiZone2021/boot.git/static/js/main.738fa354.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AdiZone2021/boot.git/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de145b29.css",
+    "static/js/main.738fa354.js"
+  ]
+}
